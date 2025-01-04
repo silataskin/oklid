@@ -1,0 +1,2 @@
+# oklid
+öklid hesaplama
